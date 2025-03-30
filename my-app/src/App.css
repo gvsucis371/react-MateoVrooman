@@ -31,3 +31,16 @@
   width: screen;
   height: 100%;
 }
+
+.edit-form {
+  margin: 24px;
+  display: flex;
+  flex-direction: row;
+  height: 24px;
+  width: 70%;
+  gap: 8px;
+}
+
+.form-content {
+  width: 10%;
+}
